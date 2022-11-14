@@ -6,3 +6,6 @@ Il codice java che useremo nel corso
 
 11/11/2022   ---->  Aggiunto Esercizio n.1 dell' 11/11/2022
                     Aggiunto Esercizio n.2 dell'11/11/2022
+                    
+14/11/2022  ----->  Aggiunto Esercizio n.3 del'14/11/2022
+
