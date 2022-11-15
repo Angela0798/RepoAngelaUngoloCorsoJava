@@ -31,6 +31,7 @@ class CicliConArray {
             {
                 
                 //Chiedo all'utente quale opzione vuole scegliere dal menu
+                System.out.println("----------MENU----------");
                 System.out.println("Scelgi 1 per aggiungere,2 per stampare,3 per uscire");
                 int opz=opzione.nextInt();
 
