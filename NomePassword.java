@@ -7,7 +7,7 @@ import java.util.ArrayList;
 
 
 
-class Esercizio4 {
+class NomePassword {
     
     public static void main(String[] args)
     {
