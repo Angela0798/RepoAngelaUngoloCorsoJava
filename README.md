@@ -11,3 +11,4 @@ Il codice java che useremo nel corso
 
 15/11/2022  -----> Aggiunto Esercizio sugli Array del 15/11/2022
             -----> Aggiunto Esercizio sugli ArrayList del 15/11/2022
+16/11/2022  -----> Aggiunto l'Esercizio Complessivo sul Java del 16/11/2022
